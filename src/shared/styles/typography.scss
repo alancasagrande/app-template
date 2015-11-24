@@ -1,0 +1,6 @@
+@include font-face("open-sans", "~../fonts/OpenSans/OpenSans", 400, $file-formats: eot woff);
+
+html, body {
+  font-family: open-sans, sans-serif, arial;
+  font-size: 14px;
+}
